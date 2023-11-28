@@ -1,0 +1,16 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(‘»εϋÿÿÿÿ8χÿςφ¶1
+N
+java:S3599",Use another way to initialize this instance.(¥Πι¨ωÿÿÿÿ8Ά€σφ¶1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒΜβ–ψÿÿÿÿ8£€σφ¶1
+N
+java:S3599",Use another way to initialize this instance.(ρ©ϋÿÿÿÿ8¤€σφ¶1
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒΜβ–ψÿÿÿÿ8¥€σφ¶1
+G	java:S106%"+Replace this use of System.out by a logger.(φÿΊ²8¨€σφ¶1
+G	java:S106,"+Replace this use of System.out by a logger.(ΦαΖ·8«€σφ¶1
+L	java:S106/"+Replace this use of System.out by a logger.(ΓΨ»ύÿÿÿÿ8¬€σφ¶1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(ξ–Ιόÿÿÿÿ8­€σφ¶1

@@ -1,0 +1,17 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ó…Ûßıÿÿÿÿ8ÁÕ¿º1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨®Ú˜şÿÿÿÿ8ÁÕ¿º1
+G	java:S106"+Replace this use of System.out by a logger.(Îú8“ÁÕ¿º1
+L	java:S106"+Replace this use of System.out by a logger.(ëİ«üúÿÿÿÿ8”ÁÕ¿º1
+L	java:S106"+Replace this use of System.out by a logger.(ÑÔ¸ìûÿÿÿÿ8”ÁÕ¿º1
+x
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÇÚ‰¾úÿÿÿÿ8”ÁÕ¿º1
+L	java:S106"+Replace this use of System.out by a logger.(ÏôÆüÿÿÿÿ8•ÁÕ¿º1
+G	java:S106"+Replace this use of System.out by a logger.(Áï ½8•ÁÕ¿º1
+G	java:S106"+Replace this use of System.out by a logger.(µ•8´ˆØ¿º1
+x
+java:S4276 "VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ßó­¥ÿÿÿÿÿ8–ÁÕ¿º1
+~
+java:S4276#"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(™Ÿ©ãşÿÿÿÿ8—ÁÕ¿º1
+z
+java:S4276+"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(Íõ£Ú8˜ÁÕ¿º1

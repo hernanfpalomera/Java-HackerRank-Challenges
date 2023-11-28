@@ -1,0 +1,12 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÖÌ©ë8ö´ÛÂº1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Åºùþÿÿÿÿ8÷´ÛÂº1
+]
+java:S1854";Remove this useless assignment to local variable "genders".(¤­œ­úÿÿÿÿ8û´ÛÂº1
+N
+java:S1481",Remove this unused "genders" local variable.(¤­œ­úÿÿÿÿ8ý´ÛÂº1
+L	java:S106$"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8ý´ÛÂº1
+L	java:S106)"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8þ´ÛÂº1
+G	java:S1062"+Replace this use of System.out by a logger.(ø– À8•©ðÂº1
+Y
+java:S1128"7Remove this unused import 'FunctionalProgramming.Main'.(Åš’Òýÿÿÿÿ8¡ÖÛÂº1

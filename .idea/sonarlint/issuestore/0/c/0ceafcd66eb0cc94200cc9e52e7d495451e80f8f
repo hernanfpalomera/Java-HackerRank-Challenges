@@ -1,0 +1,17 @@
+
+L
+java:S10662"/Merge this if statement with the enclosing one.(€¿µ´8£µê€½1
+G	java:S106"+Replace this use of System.out by a logger.(Œ½Ú–8Ô¶ê€½1
+L	java:S106"+Replace this use of System.out by a logger.(®ÆÊÁþÿÿÿÿ8Ø¶ê€½1
+L	java:S106"+Replace this use of System.out by a logger.(þ‚Á‹ûÿÿÿÿ8Ù¶ê€½1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Â¿þ 8Õ¶ê€½1
+E
+java:S1172"(Remove this unused method parameter "n".(Â¿þ 8Õ¶ê€½1
+]	java:S125"<This block of commented-out lines of code should be removed.(·ñ¹«úÿÿÿÿ8×¶ê€½1
+L	java:S106."+Replace this use of System.out by a logger.(µ §Äüÿÿÿÿ8å¶ï€½1
+L	java:S1069"+Replace this use of System.out by a logger.(¼Ýè‘ùÿÿÿÿ8Óï€½1
+E
+java:S1172>"(Remove this unused method parameter "n".(ãåŽÄ8Û¶ê€½1
+J
+java:S1172X"(Remove this unused method parameter "n".(ó–˜œùÿÿÿÿ8ß¶ê€½1

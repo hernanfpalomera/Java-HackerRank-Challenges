@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õñ™óúÿÿÿÿ8ÂÂ˜Ö»1
+G	java:S106"+Replace this use of System.out by a logger.(ïöÒÜ8×Â˜Ö»1
+L	java:S106"+Replace this use of System.out by a logger.(ØÉ‘úÿÿÿÿ8É‰³Ö»1
+L	java:S106"+Replace this use of System.out by a logger.(¤²²½ÿÿÿÿÿ8Ñ¯³Ö»1
+X	java:S125 "<This block of commented-out lines of code should be removed.(À©‰¡8ÙÂ˜Ö»1
+O
+java:S1135"2Complete the task associated to this TODO comment.(…ïœ†8ÙÂ˜Ö»1
+]	java:S125*"<This block of commented-out lines of code should be removed.(ğÆÖİıÿÿÿÿ8ÙÂ˜Ö»1
+]	java:S125-"<This block of commented-out lines of code should be removed.(ğÆÖİıÿÿÿÿ8ÙÂ˜Ö»1
+X	java:S125="<This block of commented-out lines of code should be removed.(À©‰¡8ÚÂ˜Ö»1
+O
+java:S1135<"2Complete the task associated to this TODO comment.(…ïœ†8ÛÂ˜Ö»1
+]	java:S125F"<This block of commented-out lines of code should be removed.(ğÆÖİıÿÿÿÿ8ÛÂ˜Ö»1
+]	java:S125I"<This block of commented-out lines of code should be removed.(ğÆÖİıÿÿÿÿ8ÛÂ˜Ö»1

@@ -1,0 +1,21 @@
+
+Œ
+java:S1192"oDefine a constant instead of duplicating this literal "Is phone number valid and contains number 3 = " 3 times.(³û˜Ã8ƒ‹Áº1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "09009877300" 3 times.(«ÚĞßÿÿÿÿÿ8³ß…Áº1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "07000000000" 3 times.(»‚”ôıÿÿÿÿ8Íà‹Áº1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿÷Ìüÿÿÿÿ8´ß…Áº1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨®Ú˜şÿÿÿÿ8´ß…Áº1
+L	java:S106
+"+Replace this use of System.out by a logger.(ò•ıÒøÿÿÿÿ8¼ß…Áº1
+L	java:S106"+Replace this use of System.out by a logger.(»‚”ôıÿÿÿÿ8½ß…Áº1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿç°°øÿÿÿÿ8½ß…Áº1
+L	java:S106"+Replace this use of System.out by a logger.(«ÚĞßÿÿÿÿÿ8½ß…Áº1
+G	java:S106"+Replace this use of System.out by a logger.(¾˜ÓÌ8¾ß…Áº1
+L	java:S106"+Replace this use of System.out by a logger.(ı÷Ú‡ùÿÿÿÿ8¾ß…Áº1
+G	java:S106"+Replace this use of System.out by a logger.(¨èá8¾ß…Áº1
+L	java:S106"+Replace this use of System.out by a logger.(·¸©¥ûÿÿÿÿ8¾ß…Áº1
+G	java:S106"+Replace this use of System.out by a logger.(³û˜Ã8¿ß…Áº1
+G	java:S106"+Replace this use of System.out by a logger.(³û˜Ã8·¾†Áº1
+G	java:S106"+Replace this use of System.out by a logger.(³û˜Ã8ªƒ‹Áº1

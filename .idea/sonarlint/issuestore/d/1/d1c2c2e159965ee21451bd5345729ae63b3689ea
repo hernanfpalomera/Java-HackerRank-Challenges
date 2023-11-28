@@ -1,0 +1,19 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛŸ³Z8îéÚº1
+W
+java:S1854";Remove this useless assignment to local variable "numbers".(íè—s8úéÚº1
+_
+java:S1854"=Remove this useless assignment to local variable "customers".(œ…ª«øÿÿÿÿ8úéÚº1
+Z
+java:S1854"=Remove this useless assignment to local variable "customers".(öøñŸ8úéÚº1
+K
+java:S1481".Remove this unused "customers" local variable.(öøñŸ8ûéÚº1
+]	java:S125"<This block of commented-out lines of code should be removed.(‚×ÉÅşÿÿÿÿ8üéÚº1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÎôØºüÿÿÿÿ8üéÚº1
+]	java:S125"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8º©Úº1
+L	java:S106""+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8êä£Úº1
+:
+java:S2119)"Save and re-use this "Random".(¼İÅf8ÿéÚº1
+:
+java:S21199"Save and re-use this "Random".(¼İÅf8êÚº1
+X	java:S125<"<This block of commented-out lines of code should be removed.(ôÿÕ8×ï¨Úº1

@@ -1,0 +1,11 @@
+
+G	java:S106"+Replace this use of System.out by a logger.( á×…8‡µ¿ÿº1
+\
+java:S18542"?Remove this useless assignment to local variable "squareIndex".(ÚõýÈ8‡µ¿ÿº1
+^
+java:S18541"ARemove this useless assignment to local variable "squareCounter".(œ¹¬†8‡µ¿ÿº1
+X	java:S125!"<This block of commented-out lines of code should be removed.(€¤•ô8§¥Íÿº1
+b
+java:S1994%"@Move the update of "squareIndex" into this loop's update clause.(ð²Žàÿÿÿÿÿ8ˆµ¿ÿº1
+]	java:S125'"<This block of commented-out lines of code should be removed.(Ï·Ÿãüÿÿÿÿ8›ÈÍÿº1
+]	java:S125,"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ÚäÍÿº1
